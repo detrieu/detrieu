@@ -21,6 +21,4 @@ Pharmacist in San Francisco. I build small tools for problems I've run into at w
   <img alt="Next.js, TypeScript, React, Tailwind, SQL (Postgres), R, Vercel" src="https://skillicons.dev/icons?i=nextjs,ts,react,tailwind,postgres,r,vercel&theme=light">
 </picture>
 
-### Links
-
-[LinkedIn](https://www.linkedin.com/in/desmond-trieu/) · [Rx Abroad](https://rxabroad.vercel.app)
+<sub>Next.js · TypeScript · React · Tailwind · SQL · R · Vercel</sub>
