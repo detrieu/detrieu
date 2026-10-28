@@ -5,7 +5,7 @@
 
 # Desmond Trieu
 
-Pharmacist in San Francisco. I build small tools for problems I've run into at work and on the road.
+Pharmacist in San Francisco. I build small tools for problems I've run into at work and on the road. Avid surfer and rock climber.
 
 ### Projects
 
