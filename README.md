@@ -7,20 +7,20 @@
 
 Pharmacist in San Francisco. I build small tools for problems I've run into at work and on the road.
 
-### `ls projects/`
+### Projects
 
 - **[Rx Abroad](https://rxabroad.vercel.app)** · [source](https://github.com/detrieu/rxabroad)<br>
   Know what to ask for, wherever you land. Local medicine brand names for travelers.
 - **Adult TPN Calculator** · private<br>
   Weight-based adult parenteral nutrition calculator with GIR, osmolarity and electrolyte checks.
 
-### `cat stack.txt`
+### Stack
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs,ts,react,tailwind,postgres,vercel&theme=dark">
-  <img alt="Next.js, TypeScript, React, Tailwind, Postgres, Vercel" src="https://skillicons.dev/icons?i=nextjs,ts,react,tailwind,postgres,vercel&theme=light">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs,ts,react,tailwind,postgres,r,vercel&theme=dark">
+  <img alt="Next.js, TypeScript, React, Tailwind, SQL (Postgres), R, Vercel" src="https://skillicons.dev/icons?i=nextjs,ts,react,tailwind,postgres,r,vercel&theme=light">
 </picture>
 
-### `cat links.txt`
+### Links
 
 [LinkedIn](https://www.linkedin.com/in/desmond-trieu/) · [Rx Abroad](https://rxabroad.vercel.app)
